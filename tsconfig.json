@@ -16,7 +16,7 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "baseUrl": "src",
-    "types": ["vite-plugin-svgr/client"]
+    "types": ["offscreencanvas", "vite-plugin-svgr/client"]
   },
   "include": ["./src"]
 }
